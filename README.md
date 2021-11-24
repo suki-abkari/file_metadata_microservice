@@ -18,7 +18,7 @@ The analysis itself consists of a JSON object, returned in the 'api/fileanalyse'
 - file's type;
 - file's weight. In bytes.
 
-### <a>[Demo](https://boilerplate-project-library.sukainaabkari.repl.co)</a>
+### <a>[Demo](https://boilerplate-project-filemetadata.sukainaabkari.repl.co)</a>
 
 ## <a href="https://www.freecodecamp.org/suki-220" target="_blank"><img src="https://img.icons8.com/external-sbts2018-lineal-color-sbts2018/30/000000/external-developer-women-profession-sbts2018-lineal-color-sbts2018.png"/></a> Authors
 
