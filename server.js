@@ -20,7 +20,7 @@ app.get('/', function(req, res) {
 
 /**
  * Multer: a node.js middleware for handling multipart/form-data, which is 
- * primarily used for uploading files. It is written on top of busboy for maximum  
+ * primarily used for uploading files. It is written on top for maximum  
  * efficiency. 
 */
 app.post("/api/fileanalyse",
